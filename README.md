@@ -1,8 +1,4 @@
-# React + Vite
+# Rainbow Six Siege - Ela Bosak Project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="2240" alt="r6project" src="https://github.com/user-attachments/assets/ea3b1f09-8b0a-4b77-83b0-5a069f432f44" />
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
